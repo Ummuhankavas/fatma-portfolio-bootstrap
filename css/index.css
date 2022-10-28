@@ -44,3 +44,7 @@ article {
     background-color: rgb(66, 54, 54);
     color: white;
 }
+
+.about-img {
+    width: 300px;
+}
